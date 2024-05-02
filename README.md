@@ -1,5 +1,18 @@
 # React + TypeScript + Vite
 
+# Live Demo
+https://folkcomputing-test-pwa.web.app/
+
+# Screenshots
+![image](https://github.com/dev-faheem/folkComputing-test-pwa/assets/95623464/7a1b0a9e-dd2c-4f63-9608-c993815af4ed)
+![image](https://github.com/dev-faheem/folkComputing-test-pwa/assets/95623464/eafe188e-6388-4a68-9329-251a7c6c1781)
+![image](https://github.com/dev-faheem/folkComputing-test-pwa/assets/95623464/6ce38a16-785a-418c-b78e-cd195ed85898)
+![image](https://github.com/dev-faheem/folkComputing-test-pwa/assets/95623464/4701a7b2-b770-4d33-aa8d-a0e068360c0d)
+
+
+
+
+
 # Folk Computing test PWA
 
 Welcome to the Project Name! This is a Progressive Web App (PWA) designed to provide a rich, responsive user experience.
